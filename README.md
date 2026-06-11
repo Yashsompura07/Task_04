@@ -54,7 +54,7 @@ Spam mail, or junk mail, is a type of email sent to massive numbers of users, fr
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/email-spam-detection.git
+git clone https://github.comYashsompura07/email-spam-detection.git
 cd email-spam-detection
 ```
 
@@ -441,9 +441,7 @@ MIT License - Feel free to use for education and projects
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Internship: [Company Name]
+- GitHub: https://github.com/Yashsompura07
 
 ---
 
